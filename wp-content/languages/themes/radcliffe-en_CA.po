@@ -1,0 +1,361 @@
+# Translation of Themes - Radcliffe in English (Canada)
+# This file is distributed under the same license as the Themes - Radcliffe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-06 04:42:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Radcliffe\n"
+
+#. Description of the theme
+msgid "A theme for bloggers who want their content to take center stage. Radcliffe features responsive design, retina-ready assets, full width header images, beautiful design and typography, Block Editor/Gutenberg support, support for custom logo, support for custom accent color, three widget areas, and editor styles. Demo: https://www.andersnoren.se/themes/radcliffe/"
+msgstr "A theme for bloggers who want their content to take centre stage. Radcliffe features responsive design, retina-ready assets, full width header images, beautiful design and typography, block editor/Gutenberg support, support for custom logo, support for custom accent colour, three widget areas, and editor styles. Demo: https://www.andersnoren.se/themes/radcliffe/"
+
+#. Theme Name of the theme
+msgid "Radcliffe"
+msgstr "Radcliffe"
+
+#: single.php:44 content.php:26 content.php:28
+msgid "% comments"
+msgstr "% comments"
+
+#: single.php:44 content.php:26 content.php:28
+msgid "1 comment"
+msgstr "1 comment"
+
+#: single.php:44 content.php:26 content.php:28
+msgid "0 comments"
+msgstr "0 comments"
+
+#: index.php:76
+msgid "Page %1$s of %2$s"
+msgstr "Page %1$s of %2$s"
+
+#: functions.php:563
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:562
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Larger"
+msgstr "Larger"
+
+#: functions.php:557
+msgctxt "Short name of the large font size in the Gutenberg editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:556
+msgctxt "Name of the large font size in Gutenberg"
+msgid "Large"
+msgstr "Large"
+
+#: functions.php:551
+msgctxt "Short name of the regular font size in the Gutenberg editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:550
+msgctxt "Name of the regular font size in Gutenberg"
+msgid "Regular"
+msgstr "Regular"
+
+#: functions.php:545
+msgctxt "Short name of the small font size in the Gutenberg editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:544
+msgctxt "Name of the small font size in Gutenberg"
+msgid "Small"
+msgstr "Small"
+
+#: functions.php:534
+msgctxt "Name of the white color in the Gutenberg palette"
+msgid "White"
+msgstr "White"
+
+#: functions.php:529
+msgctxt "Name of the light gray color in the Gutenberg palette"
+msgid "Light Gray"
+msgstr "Light Grey"
+
+#: functions.php:524
+msgctxt "Name of the medium gray color in the Gutenberg palette"
+msgid "Medium Gray"
+msgstr "Medium Grey"
+
+#: functions.php:519
+msgctxt "Name of the dark gray color in the Gutenberg palette"
+msgid "Dark Gray"
+msgstr "Dark Grey"
+
+#: functions.php:514
+msgctxt "Name of the black color in the Gutenberg palette"
+msgid "Black"
+msgstr "Black"
+
+#: functions.php:509
+msgctxt "Name of the accent color in the Gutenberg palette"
+msgid "Accent"
+msgstr "Accent"
+
+#: functions.php:83 functions.php:116 functions.php:591
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: index.php:39
+msgid "(page %1$s of %2$s)"
+msgstr "(page %1$s of %2$s)"
+
+#: single.php:135
+msgid "Next post: %s"
+msgstr "Next post: %s"
+
+#: index.php:16
+msgid "Search results: \"%s\""
+msgstr "Search results: \"%s\""
+
+#: functions.php:21
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: comments.php:45
+msgid "%s Pingback"
+msgid_plural "%s Pingbacks"
+msgstr[0] "%s Pingback"
+msgstr[1] "%s Pingbacks"
+
+#: comments.php:19
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Comment"
+msgstr[1] "%s Comments"
+
+#. Template Name of the theme
+msgid "Archive Template"
+msgstr "Archive Template"
+
+#: single.php:146
+msgid "Previous post: %s"
+msgstr "Previous post: %s"
+
+#: single.php:109
+msgid "About the post"
+msgstr "About the post"
+
+#: single.php:93
+msgid "Author website"
+msgstr "Author website"
+
+#: single.php:85
+msgid "Author archive"
+msgstr "Author Archive"
+
+#: single.php:71
+msgid "About the author"
+msgstr "About the author "
+
+#: single.php:63 page.php:50
+msgid "Pages:"
+msgstr "Pages:"
+
+#: searchform.php:3 header.php:119
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:2 header.php:118
+msgid "Search form"
+msgstr "Search Form"
+
+#: header.php:91
+msgid "Show the search field"
+msgstr "Show the search field"
+
+#: header.php:54
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:27
+msgid "Type and press enter"
+msgstr "Type and press enter"
+
+#: functions.php:379
+msgid "Accent Color"
+msgstr "Accent Color"
+
+#: functions.php:354
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "Upload a logo to replace the default site name and description in the header"
+
+#: functions.php:352 functions.php:387
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:347
+msgid "Allows you to customize theme settings for Radcliffe."
+msgstr "Allows you to customize theme settings for Radcliffe."
+
+#: functions.php:344
+msgid "Radcliffe Options"
+msgstr "Radcliffe Options"
+
+#: functions.php:316
+msgid "Reply"
+msgstr "Reply"
+
+#: single.php:47 functions.php:314
+msgid "Edit"
+msgstr "Edit"
+
+#: functions.php:304
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: functions.php:285
+msgid "(Post author)"
+msgstr "(Post author)"
+
+#: functions.php:285
+msgid "Comment by post author"
+msgstr "Comment by post author"
+
+#: functions.php:269
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions.php:269
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:206
+msgid "Continue reading"
+msgstr "Continue reading "
+
+#: functions.php:161
+msgid "Widgets in this area will be shown in the right column in the footer."
+msgstr "Widgets in this area will be shown in the right column in the footer."
+
+#: functions.php:159
+msgid "Footer C"
+msgstr "Footer C"
+
+#: functions.php:151
+msgid "Widgets in this area will be shown in the middle column in the footer."
+msgstr "Widgets in this area will be shown in the middle column in the footer."
+
+#: functions.php:149
+msgid "Footer B"
+msgstr "Footer B"
+
+#: functions.php:141
+msgid "Widgets in this area will be shown in the left column in the footer."
+msgstr "Widgets in this area will be shown in the left column in the footer."
+
+#: functions.php:139
+msgid "Footer A"
+msgstr "Footer A"
+
+#: footer.php:69
+msgid "Up"
+msgstr "Up"
+
+#: footer.php:69
+msgid "To the top"
+msgstr "To the top"
+
+#: footer.php:69
+msgid "Theme by"
+msgstr "Theme by"
+
+#: content.php:32
+msgid "Sticky"
+msgstr "Sticky"
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:71
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:65
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:23
+msgid "Add yours"
+msgstr "Add yours"
+
+#: index.php:99
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: index.php:97
+msgid "Older posts"
+msgstr "Older posts"
+
+#: index.php:31
+msgid "Archive"
+msgstr "archive"
+
+#: index.php:29
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: index.php:26
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: index.php:24
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#: index.php:22
+msgctxt "Y = Year"
+msgid "Y"
+msgstr "Y"
+
+#: index.php:22
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: index.php:20
+msgctxt "F = Month, Y = Year"
+msgid "F Y"
+msgstr "F Y"
+
+#: index.php:20
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: index.php:18
+msgid "Date: %s"
+msgstr "Date: %s"
+
+#: 404.php:19
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+
+#: 404.php:11
+msgid "Error 404"
+msgstr "Error 404"
+
+#. Author URI of the theme
+msgid "https://www.andersnoren.se"
+msgstr "https://www.andersnoren.se"
+
+#. Author of the theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the theme
+msgid "https://www.andersnoren.se/teman/radcliffe-wordpress-theme/"
+msgstr "https://www.andersnoren.se/teman/radcliffe-wordpress-theme/"

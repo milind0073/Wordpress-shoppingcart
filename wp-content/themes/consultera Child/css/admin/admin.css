@@ -1,0 +1,41 @@
+.customize-control-kirki-radio-image label {
+	margin-right:10px;
+}
+.customizer-title{
+    text-align: center;
+    font-size: 16px;
+    background-color: #5c5c5c;
+    width: 100%;
+    color: #ffffff;
+    padding: 8px 0;
+    margin: 15px 0;
+    box-shadow: 2px 4px 3px 0px rgba(0, 0, 0, 0.25);
+}
+
+.pro-box .more-button {
+    background-color: #008ec2;
+    border-color: #ef9c28;
+    color: #fff !important;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding: 13px 30px 14px 29px;
+    text-transform: uppercase;
+    width: 54%;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+.pro-vesrion {
+    text-align: center;
+    margin-top: 15px;
+}
+.pro-box {
+    display: block;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+#accordion-section-azure_section_header_top .accordion-section-title:after, #accordion-section-azure_section_header_top_color .accordion-section-title:after, #accordion-section-azure_section_header_menu_color .accordion-section-title:after, #accordion-section-azure_section_scroll_to_top .accordion-section-title:after, #accordion-section-azure_section_scroll_to_top_settings .accordion-section-title:after, #accordion-section-azure_typoghraphy .accordion-section-title:after, #accordion-section-azure_layout .accordion-section-title:after{content: "\f160";}

@@ -1,0 +1,81 @@
+/* BACKGROUND COLOR */
+.ce-portfolio .ce-filters ul li:after,
+.ce-item .icon li a:hover,
+.scroll-to-top,
+.team-content .team-social-icons li a:hover,
+.bg-image-with-blue-overlay::before,
+.pricing-section .nav-tabs .nav-link.active,
+.price-block:hover .price-header,
+.price-block .price-header.active,
+.widget.widget-search .input-group-append button.btn,
+.widget-tags ul li a:hover,
+.feature-list-inline li i.square,
+.bg-blue,
+.main-slider .owl-nav button.owl-prev,
+.main-slider .owl-nav button.owl-next,
+.testimonial-wrapper .owl-nav button.owl-prev,
+.testimonial-wrapper .owl-nav button.owl-next,
+.clients-section .owl-nav button.owl-prev,
+.clients-section .owl-nav button.owl-next,
+.blog-carousel .owl-nav button.owl-next,
+.blog-carousel .owl-nav button.owl-prev,
+.main-slider .owl-carousel button.owl-dot.active,
+.testimonial-wrapper .owl-carousel button.owl-dot.active,
+.clients-section .owl-carousel button.owl-dot.active,
+.input-group-append button.btn,
+.woocommerce nav.woocommerce-pagination ul li a:focus, 
+.woocommerce nav.woocommerce-pagination ul li a:hover, 
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.ce-item,
+.woocommerce span.onsale,
+.woocommerce #respond input#submit, 
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button,
+.woocommerce button.button.alt,
+.woocommerce button.button.alt:hover,
+.quote-form input[type="submit"],
+.woocommerce a.button.alt,
+.woocommerce a.button.alt:hover,
+.woocommerce #respond input#submit:hover, 
+.woocommerce a.button:hover, 
+.woocommerce button.button:hover, 
+.woocommerce input.button:hover,
+.woocommerce-MyAccount-navigation ul li.is-active a,
+.wp-block-button__link,
+.wp-block-file .wp-block-file__button,
+.wc-onsale,
+.wpcf7-submit{
+	background-color: #093c81;
+}
+
+
+/* TEXT COLOR */
+.widget-area a:hover,
+.widget-meta ul li a span,
+.address-block i,
+.text-blue,
+.ce-logo,
+.ce-logo span,
+.about-features-content i,
+.about-features-content i.square,
+.ce-box .box-icon i,
+.read-more i,
+.ce-item .icon li a,
+.team-content h3,
+.post-wrapper:hover h1.post-title a,
+.post-meta li a:hover,
+.entry-header .entry-title a:hover,
+.entry-header .entry-title a:focus,
+.breadcrumb-section .breadcrumb-page li,
+.one-column-list li::before,
+.scroll-to-top .tooltip-text span{
+    color: #093c81;
+}
+
+
+/* BORDER COLOR */
+.widget-meta ul li a span,
+.wp-block-button.is-style-outline .wp-block-button__link{
+	border-color: #093c81
+}

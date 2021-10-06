@@ -1,0 +1,466 @@
+# Translation of Themes - Square in English (Canada)
+# This file is distributed under the same license as the Themes - Square package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-08 19:14:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Square\n"
+
+#. Description of the theme
+msgid "Square is a flexible responsive multipurpose theme compatible with all browsers and devices, fully mobile friendly, loaded with lots of features. It is a minimal theme based on WordPress Customizer that allows you to customize with live preview. The theme can be used for business, corporate, digital agency, personal, portfolio, photography, parallax, blogs and magazines. Square is eCommerce (WooCommerce) Compatible, Polylang Compatible, WPML, RTL, Retina Ready, SEO Friendly and Support bbPress and BuddyPress. More over it is a complete theme. For demo https://demo.hashthemes.com/square"
+msgstr "Square is a flexible responsive multipurpose theme compatible with all browsers and devices, fully mobile friendly, loaded with lots of features. It is a minimal theme based on WordPress Customizer that allows you to customize with live preview. The theme can be used for business, corporate, digital agency, personal, portfolio, photography, parallax, blogs and magazines. Square is eCommerce (WooCommerce) Compatible, Polylang Compatible, WPML, RTL, Retina Ready, SEO Friendly and Support bbPress and BuddyPress. More over it is a complete theme. For demo https://demo.hashthemes.com/square"
+
+#. Theme Name of the theme
+msgid "Square"
+msgstr "Square"
+
+#: welcome/sections/support.php:3 inc/customizer.php:73
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/customizer.php:152
+msgid "Disable Sticky Header"
+msgstr "Disable Sticky Header"
+
+#: inc/customizer.php:140
+msgid "Header Settings"
+msgstr "Header Settings"
+
+#: inc/widgets/widget-personal-info.php:39
+msgid "Short Intro"
+msgstr "Short Intro"
+
+#: inc/widgets/widget-personal-info.php:34
+msgid "Image"
+msgstr "Image"
+
+#: inc/widgets/widget-personal-info.php:16
+msgid "A widget to display Personal Information"
+msgstr "A widget to display Personal Information"
+
+#: inc/widgets/widget-fields.php:145
+msgid "Select Image"
+msgstr "Select Image"
+
+#: inc/widgets/widget-fields.php:144
+msgid "Remove"
+msgstr "Remove"
+
+#: inc/widgets/widget-fields.php:137
+msgid "No image selected"
+msgstr "No image selected"
+
+#: inc/widgets/widget-contact-info.php:55
+msgid "Contact Time"
+msgstr "Contact Time"
+
+#: inc/widgets/widget-contact-info.php:49
+msgid "Contact Address"
+msgstr "Contact Address"
+
+#: inc/widgets/widget-contact-info.php:34
+msgid "Phone"
+msgstr "Phone"
+
+#: inc/widgets/widget-contact-info.php:16
+msgid "A widget to display Contact Information"
+msgstr "A widget to display Contact Information"
+
+#: inc/customizer.php:904
+msgid "Clear"
+msgstr "Clear"
+
+#: inc/customizer.php:903
+msgid "Add/Edit Gallery"
+msgstr "Add/Edit Gallery"
+
+#: template-parts/content-summary.php:38
+msgid "Read More"
+msgstr "Read More"
+
+#: inc/customizer.php:232
+msgid "Disable Share Buttons"
+msgstr "Disable Share Buttons"
+
+#: inc/customizer.php:214
+msgid "Blog Content Format"
+msgstr "Blog Content Format"
+
+#: inc/customizer.php:204
+msgid "Blog Settings"
+msgstr "Blog Settings"
+
+#: inc/customizer.php:751
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/square-metabox.php:16
+msgid "Sidebar Layout"
+msgstr "Sidebar Layout"
+
+#: inc/customizer.php:612
+msgid "Section Title & Logo"
+msgstr "Section Title & Logo"
+
+#: inc/customizer.php:511
+msgid "Disable Tab Section "
+msgstr "Disable Tab Section "
+
+#: inc/customizer.php:431
+msgid "Disable About Section "
+msgstr "Disable About Section "
+
+#: functions.php:126
+msgid "Shop Sidebar"
+msgstr "Shop Sidebar"
+
+#: inc/customizer.php:637
+msgid "Recommended Image Size: 220X90px"
+msgstr "Recommended Image Size: 220X90px"
+
+#: inc/customizer.php:600
+msgid "Disable Client Logo Section "
+msgstr "Disable Client Logo Section "
+
+#: inc/customizer.php:356
+msgid "Enable Read More link "
+msgstr "Enable Read More link "
+
+#: inc/customizer.php:318
+msgid "Recommended Image Size: 1800X800px"
+msgstr "Recommended Image Size: 1800X800px"
+
+#: functions.php:106
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: inc/customizer.php:177
+msgid "Page Header Banner"
+msgstr "Page Header Banner"
+
+#: inc/customizer.php:166
+msgid "Header Background Color"
+msgstr "Header Background Colour"
+
+#: template-parts/content.php:34 template-parts/content-summary.php:40
+msgid "Continue reading &rarr;"
+msgstr "Continue reading &rarr;"
+
+#: inc/customizer.php:29
+msgid "Black"
+msgstr "Black"
+
+#: inc/customizer.php:28
+msgid "White"
+msgstr "White"
+
+#: template-parts/frontpage-sections.php:15 inc/customizer.php:298
+msgid "Create website in no time"
+msgstr "Create website in no time"
+
+#: template-parts/frontpage-sections.php:14 inc/customizer.php:286
+msgid "Free WordPress Themes"
+msgstr "Free WordPress Themes"
+
+#: inc/customizer.php:715
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:739
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/customizer.php:727
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer.php:703
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:679
+msgid "Footer Social Icons"
+msgstr "Footer Social Icons"
+
+#: inc/customizer.php:691
+msgid "Facebook"
+msgstr "Facebook"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Home Page"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:26
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: template-parts/content-page.php:15 template-parts/content.php:39
+#: template-parts/content-summary.php:43 template-parts/content-single.php:19
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#. translators: Link
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#. translators: Search Query
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:43
+msgid " Comment Closed"
+msgstr " Comment Closed"
+
+#: inc/template-tags.php:37
+msgid " Comments"
+msgstr " Comments"
+
+#: inc/template-tags.php:39
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:35
+msgid "No Comments"
+msgstr "No Comments"
+
+#. translators: author
+#: inc/template-tags.php:28
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#. translators: 1: comment date, 2: comment time
+#: inc/square-functions.php:105
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/square-functions.php:93
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/square-functions.php:91
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/customizer.php:636
+msgid "Upload Clients Logos"
+msgstr "Upload Clients' Logos"
+
+#: inc/customizer.php:393 inc/customizer.php:552
+msgid "FontAwesome Icon"
+msgstr "FontAwesome Icon"
+
+#: inc/customizer.php:539
+msgid "Tab Title"
+msgstr "Tab Title"
+
+#: inc/customizer.php:624 inc/widgets/widget-latest-post.php:26
+#: inc/widgets/widget-contact-info.php:29
+#: inc/widgets/widget-personal-info.php:29
+msgid "Title"
+msgstr "Title"
+
+#: inc/customizer.php:588
+msgid "Clients Logo Section"
+msgstr "Clients' Logo Section"
+
+#: inc/customizer.php:526
+msgid "Tab "
+msgstr "Tab "
+
+#: inc/customizer.php:499
+msgid "Tab Section"
+msgstr "Tab Section"
+
+#: inc/customizer.php:477
+msgid "About Us Stack Image"
+msgstr "About Us Stack Image"
+
+#: inc/customizer.php:466
+msgid "About Page Stack Images"
+msgstr "About Page Stack Images"
+
+#: inc/customizer.php:443
+msgid "About Page "
+msgstr "About Page "
+
+#: inc/customizer.php:419
+msgid "About Us Section"
+msgstr "About Us Section"
+
+#: inc/customizer.php:382 inc/customizer.php:455 inc/customizer.php:565
+msgid "Select a Page"
+msgstr "Select a Page"
+
+#: inc/customizer.php:370
+msgid "Featured Page "
+msgstr "Featured Page "
+
+#: inc/customizer.php:344
+msgid "Featured Section"
+msgstr "Featured Section"
+
+#: inc/customizer.php:315
+msgid "Slider Image"
+msgstr "Slider Image"
+
+#: inc/customizer.php:306
+msgid "Caption SubTitle"
+msgstr "Caption SubTitle"
+
+#: inc/customizer.php:294
+msgid "Caption Title"
+msgstr "Caption Title"
+
+#: inc/customizer.php:267
+msgid "Slider Section"
+msgstr "Slider Section"
+
+#: inc/customizer.php:282
+msgid "Slider "
+msgstr "Slider"
+
+#: inc/customizer.php:261
+msgid "Home Page Sections"
+msgstr "Home Page Sections"
+
+#: inc/customizer.php:134
+msgid "Header Logo"
+msgstr "Header Logo"
+
+#: inc/customizer.php:255
+msgid "Background Image"
+msgstr "Background Image"
+
+#: inc/customizer.php:120
+msgid "General Settings"
+msgstr "General Settings"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:214
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:222
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:206
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:176
+msgid "About Footer"
+msgstr "About Footer"
+
+#: functions.php:146
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:156
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:166
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: functions.php:136
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:116
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#. translators: 1: link 2: Theme name
+#: footer.php:70
+msgid "%1$s by %2$s"
+msgstr "%1$s by %2$s"
+
+#: footer.php:65
+msgid "WordPress Theme"
+msgstr "WordPress Theme"
+
+#: comments.php:73
+msgid "Comment"
+msgstr "Comment"
+
+#: inc/widgets/widget-contact-info.php:44 comments.php:67
+msgid "Website"
+msgstr "Website"
+
+#: inc/widgets/widget-contact-info.php:39 comments.php:64
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/widgets/widget-personal-info.php:45 comments.php:61
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#. translators: 1: comment count number
+#: comments.php:29
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Comment"
+msgstr[1] "%1$s Comments"
+
+#: 404.php:12
+msgid "404 Error"
+msgstr "404 Error"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Theme URI of the theme
+msgid "https://hashthemes.com/wordpress-theme/square/"
+msgstr "https://hashthemes.com/wordpress-theme/square/"
+
+#. Author URI of the theme
+msgid "https://hashthemes.com"
+msgstr "https://hashthemes.com"
+
+#. Author of the theme
+msgid "HashThemes"
+msgstr "HashThemes"
